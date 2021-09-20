@@ -7,12 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="saving" />
-        <module name="main" />
         <module name="current" />
+        <module name="main" />
+        <module name="depositbd" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="current" target="11" />
+      <module name="depositbd" target="1.7" />
       <module name="main" target="11" />
       <module name="saving" target="11" />
     </bytecodeTargetLevel>

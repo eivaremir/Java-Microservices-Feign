@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/current/current.iml" filepath="$PROJECT_DIR$/current/current.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/deposit-account.iml" filepath="$PROJECT_DIR$/.idea/deposit-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/depositbd/depositbd.iml" filepath="$PROJECT_DIR$/depositbd/depositbd.iml" />
       <module fileurl="file://$PROJECT_DIR$/main/main.iml" filepath="$PROJECT_DIR$/main/main.iml" />
       <module fileurl="file://$PROJECT_DIR$/saving/saving.iml" filepath="$PROJECT_DIR$/saving/saving.iml" />
     </modules>
